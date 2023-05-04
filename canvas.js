@@ -1,4 +1,4 @@
-var num = 150; //星星数
+var num = 140; //星星数
 var star = []; //星星位置
 var canvas = document.querySelector("#canvas");
 
